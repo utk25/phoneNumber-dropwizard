@@ -1,0 +1,10 @@
+com\company\phonenumber\resources\PhoneNumberResource.class
+com\company\phonenumber\db\PhoneNumberDAO.class
+com\company\phonenumber\PhoneNumberApplication.class
+com\company\phonenumber\core\AllottedPhoneNumber.class
+com\company\phonenumber\core\PhoneNumberRequest.class
+com\company\phonenumber\constants\PhoneNumberConstants.class
+com\company\phonenumber\PhoneNumberConfiguration.class
+com\company\phonenumber\core\PhoneNumber.class
+com\company\phonenumber\PhoneNumberApplication$1.class
+com\company\phonenumber\core\SpecialPhoneNumberRequest.class
